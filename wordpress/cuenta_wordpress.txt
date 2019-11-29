@@ -1,3 +1,9 @@
-jgcesar44@gmail.com
+administrador:
+	Julio1994
+	jgcesar44@gmail.com
+	psw: 3w290UD5qq#$ECztHtU0!eML
 
-psw: 3w290UD5qq#$ECztHtU0!eML
+cliente:
+	Aidee1995
+	gomez_prodi94@hotmail.com
+	BVIp9tt%)$fC@o%yz0y0ni)2
